@@ -5,3 +5,5 @@
 target
 bin
 classes
+.idea/
+spring-boot-lambda.iml
